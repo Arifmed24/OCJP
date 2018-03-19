@@ -27,6 +27,7 @@ public class DeadLockExample {
 }
 
 class Food {
+    int a = 1;
 }
 
 class Water {
